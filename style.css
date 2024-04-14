@@ -97,7 +97,7 @@ h1 {
 
 @media (max-width: 450px){
     .link a p, .portfolio a p{
-        margin-top: -2.5rem;
+        margin-top: -3rem;
     }
   .link a #wa, #yt, #tele, #twit, #ig, #web{
     margin: 0.7rem 1rem 0 1rem;
